@@ -14,4 +14,4 @@ Integrantes:
 - Aldana Vallejos (Funcionalidad: Registro)
 - Aldana Vallejos (Funcionalidad: Login)
 - Marcos Maggiotti (Funcionalidad: Lista de juegos)
-- Santiago Saitz (Funcionalidad: Detalles de juego)
+- Santiago Saitz (Funcionalidad: Detalles de juegos)
